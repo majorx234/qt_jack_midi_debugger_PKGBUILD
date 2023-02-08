@@ -1,7 +1,7 @@
 pkgname=qtjack_midi_debugger
 pkgdesc="a small jack midi debugger with Qt frontend"
-pkgver=1.0.0
-pkgrel=3
+pkgver=1.1.1
+pkgrel=1
 arch=("x86_64" "arm7h")
 url="https://github.com/majorx234/qtjack_midi_debugger"
 license=("GPLv3")
